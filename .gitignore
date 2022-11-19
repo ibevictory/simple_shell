@@ -1,0 +1,7 @@
+*
+!*/
+!.gitignore
+!README.md
+!man_1_hsh
+!makefile
+!*.[ch]
