@@ -137,7 +137,8 @@ void remove_comments(char *buf)
 			buf[i] = '\0';
 			break;
 		}
-}#include "shell.h"
+}
+#include "shell.h"
 
 /**
  * _erratoi - converts a string to an integer
